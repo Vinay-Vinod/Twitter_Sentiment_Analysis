@@ -65,7 +65,6 @@ for items in m:
     else:
         neu += 1
 
-# print(pos, neg, neu)
 pieLabels=["Positive Sentiment","Negative Sentiment","Neutral Sentiment"]
 
 populationShare=[pos,neg,neu]
